@@ -47,11 +47,12 @@ src="https://img.shields.io/github/followers/fachiny17?logo=github&style=for-the
 <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>
 <a href="https://metamask.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/metamask-colored.svg" width="36" height="36" alt="MetaMask" /></a>
 <a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" /></a>
-<a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/scikitlearn/F7931E" width="36" height="36" alt="Scikit-learn" /></a>
-<a href="https://numpy.org/" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/numpy/013243" width="36" height="36" alt="NumPy" /></a>
-<a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/pandas/150458" width="36" height="36" alt="Pandas" /></a>
-<a href="https://matplotlib.org/" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/matplotlib/11557C" width="36" height="36" alt="Matplotlib" /></a>
+<a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="36" height="36" alt="Scikit-learn" /></a>
+<a href="https://numpy.org/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="36" height="36" alt="NumPy" /></a>
+<a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="36" height="36" alt="Pandas" /></a>
+<a href="https://matplotlib.org/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="36" height="36" alt="Matplotlib" /></a>
 </p>
+
 
 
 ### Socials

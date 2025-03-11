@@ -7,7 +7,7 @@ Aspiring Systems and Software Engineer
 I am a Mechanical Engineering student aspiring to be a Systems and Software Engineer, passionate about designing impactful solutions. I enjoy playing football.
 
 * 🌍  I'm based in Nigeria
-* 🖥️  See my portfolio at [favourchisom.vercel.app(http://favourchisom.vercel.app)
+* 🖥️  See my portfolio at favourchisom.vercel.app(http://favourchisom.vercel.app)
 * ✉️  You can contact me at [iheanyifavour.ube3room312@gmail.com](mailto:iheanyifavour.ube3room312@gmail.com)
 * 🧠  I'm learning python, ai and ml
 * 🤝  I'm open to collaborating on I'm open to collaboration on projects or initiatives related to software development, AI/ML and renewable energy. If there's an opportunity where my skills can contribute, I would be happy to explore it further.

@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is IHEANYI, FAVOUR CHISOM
 ==============================================================================================================================================
 
-Aspiring Systems and Software Engineer
+Aspiring Machine Learning and Software Engineer
 --------------------------------------
 
 I am a Mechanical Engineering student aspiring to be a Systems and Software Engineer, passionate about designing impactful solutions. I enjoy playing football.

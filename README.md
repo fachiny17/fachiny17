@@ -1,17 +1,18 @@
 <h1 align="center" style="
   font-size: 3.5em;
   font-weight: 900;
-  font-family: 'Arial Black', 'Impact', sans-serif;
-  color: #E2E8F0;
+  font-family: 'Arial Black', 'Impact', -apple-system, sans-serif;
+  color: var(--color-fg-default, #1F2328);
   text-transform: uppercase;
   letter-spacing: 2px;
   text-shadow: 
-    1px 1px 0 #0891B2,
-    2px 2px 0 #06B6D4,
-    3px 3px 0 #22D3EE,
-    4px 4px 0 #67E8F9,
-    5px 5px 10px rgba(0,0,0,0.3);
+    2px 2px 0 #0891B2,
+    4px 4px 0 #06B6D4,
+    6px 6px 0 #22D3EE,
+    8px 8px 0 #67E8F9,
+    10px 10px 15px rgba(0,0,0,0.2);
   word-break: keep-all;
+  margin-bottom: 10px;
 ">
   Hi 👋, I'm Iheanyi, Favour Chisom
 </h1>
@@ -84,7 +85,7 @@
 
 ---
 
-## 🐍 Contribution Snake (Animation)
+## 🐍 Contribution
 <p align="center">
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
 </p>

@@ -1,21 +1,25 @@
 <h1 align="center" style="
-  font-size: 3.2em;
-  font-weight: 700;
-  font-family: system-ui, -apple-system, sans-serif;
-  color: #F8FAFC;
-  text-shadow: 0 2px 10px rgba(0,0,0,0.1);
+  font-size: 3em;
+  font-weight: 800;
+  font-family: 'Segoe UI', 'Inter', sans-serif;
+  letter-spacing: -0.5px;
+  margin-bottom: 0;
+  background: linear-gradient(135deg, #0891B2 0%, #06B6D4 40%, #3B82F6 80%);
+  background-size: 200% auto;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+  animation: shine 4s linear infinite;
+  filter: drop-shadow(0 4px 6px rgba(8, 145, 178, 0.2));
 ">
-  <span style="
-    display: inline-block;
-    filter: drop-shadow(0 0 15px #FBBF24);
-  ">Hi 👋,</span> I'm <span style="
-    background: linear-gradient(to right, #F0F9FF, #E0F2FE);
-    padding: 0 10px;
-    border-radius: 12px;
-    border-left: 6px solid #0891B2;
-    border-right: 6px solid #0891B2;
-  ">Iheanyi, Favour Chisom</span>
+  Hi 👋, I'm Iheanyi, Favour Chisom
 </h1>
+
+<style>
+@keyframes shine {
+  to { background-position: 200% center; }
+}
+</style>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=0891B2&center=true&vCenter=true&width=500&lines=Mechanical+Engineering+Student;AI%2FML+Enthusiast;Building+Real-World+Solutions" />

@@ -61,17 +61,6 @@
 
 ---
 
-## 🧠 Current Focus
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=fachiny17&theme=tokyonight&no-frame=true&row=1&column=6"/>
-</p>
-
-- 🔭 Building **Face Recognition Attendance System**  
-- 🤖 Learning **Deep Learning & Model Deployment**  
-- ⚙️ Combining **Engineering + AI to solve real problems**  
-
----
-
 ## 📌 Featured Projects
 <p align="center">
   <a href="https://github.com/fachiny17">

@@ -1,116 +1,128 @@
 <div align="center">
 
-<h1>Favour Chisom Iheanyi</h1>
-
-<p><strong>Mechanical Engineering Student</strong> &nbsp;·&nbsp; AI & ML &nbsp;·&nbsp; Renewable Energy &nbsp;·&nbsp; Software Development</p>
-
-<p>
-  <a href="http://favourchisom.vercel.app">
-    <img src="https://img.shields.io/badge/Portfolio-favourchisom.vercel.app-0891b2?style=flat-square&logo=vercel&logoColor=white" />
-  </a>
-  &nbsp;
-  <a href="mailto:iheanyifavour.ube3room312@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact%20Me-0891b2?style=flat-square&logo=gmail&logoColor=white" />
-  </a>
-  &nbsp;
-  <a href="https://www.linkedin.com/in/fachiny17">
-    <img src="https://img.shields.io/badge/LinkedIn-fachiny17-0891b2?style=flat-square&logo=linkedin&logoColor=white" />
-  </a>
-  &nbsp;
-  <a href="https://github.com/fachiny17">
-    <img src="https://img.shields.io/badge/GitHub-fachiny17-0891b2?style=flat-square&logo=github&logoColor=white" />
-  </a>
-</p>
-
-<img src="https://komarev.com/ghpvc/?username=fachiny17&style=flat-square&color=0891b2&label=Profile+Views" />
-
-</div>
-
----
-
-## About
-
-I am a Mechanical Engineering student based in **Nigeria**, working at the intersection of engineering and intelligent systems. My focus is building solutions that are structurally sound, computationally informed, and designed for real-world impact — spanning AI/ML applications, software tooling, and renewable energy systems.
-
-Currently deepening expertise in **Python, machine learning, and deep learning**, with an eye toward engineering problems where data-driven approaches unlock new possibilities. Open to collaboration on meaningful projects in software development, AI/ML, and clean energy.
-
----
-
-## Technical Skills
-
-| Domain | Technologies |
-|---|---|
-| **Languages** | Python · JavaScript · HTML5 · CSS3 |
-| **Machine Learning** | TensorFlow · Scikit-learn · NumPy · Pandas · Matplotlib |
-| **Web & Backend** | Flask · PostgreSQL |
-| **Tools & Environment** | Git · Linux · VS Code |
-
----
-
-## GitHub Statistics
-
-<div align="center">
-
-<img height="175px" src="https://github-readme-stats.vercel.app/api?username=fachiny17&show_icons=true&count_private=true&hide_border=true&title_color=0891b2&text_color=c9d1d9&icon_color=0891b2&bg_color=0d1117&include_all_commits=true" />
-&nbsp;
-<img height="175px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fachiny17&layout=compact&langs_count=8&hide_border=true&title_color=0891b2&text_color=c9d1d9&bg_color=0d1117" />
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=fachiny17&theme=transparent&hide_border=true&ring=0891b2&fire=0891b2&currStreakLabel=0891b2&sideNums=c9d1d9&sideLabels=8b949e&currStreakNum=c9d1d9&dates=8b949e&stroke=0891b2" />
-
-</div>
-
----
-
-## Contribution Activity
-
-<div align="center">
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=fachiny17&theme=github-compact&hide_border=true&color=0891b2&line=0891b2&point=ffffff&area=true)](https://github.com/fachiny17)
-
-</div>
-
----
-
-## Trophies
-
-<div align="center">
-
-[![Trophies](https://github-profile-trophy.vercel.app/?username=fachiny17&theme=onestar&no-frame=true&no-bg=true&column=7&margin-w=8)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
-
-## Areas of Focus
-
-```
-Mechanical Systems Design    ████████████████████░░░░   80%
-Python & Data Science        ██████████████████░░░░░░   72%
-Machine Learning             ███████████████░░░░░░░░░   60%
-Renewable Energy Systems     ██████████████░░░░░░░░░░   56%
-Web Development (Flask/JS)   ████████████░░░░░░░░░░░░   48%
-```
-
----
-
-## Open to Collaboration
-
-I welcome collaboration on projects at the intersection of **engineering, AI/ML, and sustainable systems**. If you are working on something where my background in mechanical engineering or data science could add value, feel free to reach out.
-
-<div align="center">
-
-<a href="mailto:iheanyifavour.ube3room312@gmail.com">
-  <img src="https://img.shields.io/badge/Get%20In%20Touch-0891b2?style=for-the-badge&logo=gmail&logoColor=white" />
+<a href="https://github.com/fachiny17">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0a0a0a&height=200&section=header&text=Iheanyi%20Favour%20Chisom&fontSize=42&fontColor=00d4ff&fontAlignY=35&desc=Mechanical%20Engineer%20%E2%80%A2%20AI%20%2F%20ML%20Developer%20%E2%80%A2%20Nigeria%20%F0%9F%87%B3%F0%9F%87%AC&descAlignY=58&descSize=15&descColor=888888&animation=fadeIn" width="100%"/>
 </a>
 
+<br/>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3500&pause=1200&color=00D4FF&center=true&vCenter=true&width=700&lines=Engineering+impactful+solutions+through+code;Exploring+AI+%2F+ML+%7C+Renewable+Energy+%7C+Design;Open+to+collaboration+%E2%80%94+let%27s+build+something.)](https://git.io/typing-svg)
+
+<br/>
+
+[![Profile Views](https://komarev.com/ghpvc/?username=fachiny17&style=flat-square&color=00d4ff&label=PROFILE+VIEWS)](https://github.com/fachiny17)&nbsp;&nbsp;
+[![GitHub Followers](https://img.shields.io/github/followers/fachiny17?style=flat-square&color=00d4ff&labelColor=0a0a0a&label=FOLLOWERS)](https://github.com/fachiny17?tab=followers)&nbsp;&nbsp;
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-favourchisom.vercel.app-00d4ff?style=flat-square&labelColor=0a0a0a)](http://favourchisom.vercel.app)
+
 </div>
 
 ---
 
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fachiny17&layout=compact&langs_count=6&hide_border=true&title_color=00d4ff&text_color=c9d1d9&bg_color=0d1117&card_width=260" width="260"/>
+
+### `$ whoami`
+
+```yaml
+name:       Iheanyi Favour Chisom
+role:       Mechanical Engineering Student
+location:   Nigeria 🇳🇬
+portfolio:  favourchisom.vercel.app
+
+focus:
+  - Artificial Intelligence & Machine Learning
+  - Renewable Energy Systems
+  - Software Development
+
+learning:   [ Python, Deep Learning, ML Engineering ]
+open_to:    [ Collaboration, AI/ML Projects, Research ]
+passion:    Football ⚽ · Problem Solving · Design
+```
+
+<br clear="right"/>
+
+---
+
+### Tech Stack
+
 <div align="center">
-  <sub>Nigeria &nbsp;·&nbsp; Mechanical Engineering &nbsp;·&nbsp; AI & Machine Learning &nbsp;·&nbsp; Renewable Energy</sub>
+
+**Languages & Markup**
+
+![Python](https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=00d4ff)
+![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![HTML5](https://img.shields.io/badge/HTML5-0d1117?style=for-the-badge&logo=html5&logoColor=E34F26)
+![CSS3](https://img.shields.io/badge/CSS3-0d1117?style=for-the-badge&logo=css3&logoColor=1572B6)
+
+**AI · ML · Data Science**
+
+![TensorFlow](https://img.shields.io/badge/TensorFlow-0d1117?style=for-the-badge&logo=tensorflow&logoColor=FF6F00)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-0d1117?style=for-the-badge&logo=scikit-learn&logoColor=F7931E)
+![NumPy](https://img.shields.io/badge/NumPy-0d1117?style=for-the-badge&logo=numpy&logoColor=4DABCF)
+![Pandas](https://img.shields.io/badge/Pandas-0d1117?style=for-the-badge&logo=pandas&logoColor=9B59B6)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-0d1117?style=for-the-badge&logo=python&logoColor=11557C)
+
+**Frameworks & Tools**
+
+![Flask](https://img.shields.io/badge/Flask-0d1117?style=for-the-badge&logo=flask&logoColor=ffffff)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0d1117?style=for-the-badge&logo=postgresql&logoColor=4169E1)
+![Git](https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git&logoColor=F05032)
+![Linux](https://img.shields.io/badge/Linux-0d1117?style=for-the-badge&logo=linux&logoColor=FCC624)
+![VS Code](https://img.shields.io/badge/VS%20Code-0d1117?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC)
+
+</div>
+
+---
+
+### GitHub Analytics
+
+<div align="center">
+  <img height="175" src="https://github-readme-stats.vercel.app/api?username=fachiny17&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&title_color=00d4ff&text_color=c9d1d9&icon_color=00d4ff&bg_color=0d1117&rank_icon=github" />
+  &nbsp;
+  <img height="175" src="https://github-readme-streak-stats.herokuapp.com/?user=fachiny17&hide_border=true&background=0d1117&ring=00d4ff&fire=00d4ff&currStreakNum=ffffff&currStreakLabel=00d4ff&sideNums=c9d1d9&sideLabels=888888&dates=888888&stroke=00d4ff" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=fachiny17&bg_color=0d1117&color=00d4ff&line=00d4ff&point=ffffff&area=true&area_color=00d4ff&hide_border=true&custom_title=Contribution%20Activity" width="96%"/>
+</div>
+
+---
+
+### Achievements
+
+<div align="center">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=fachiny17&theme=onestar&no-frame=true&no-bg=true&margin-w=8&column=6&title=Stars,Commits,Followers,Repositories,PullRequest,Issues)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+---
+
+### Current Focus
+
+```
+📐  Mechanical Design     ████████████░░░░░░░░   60%
+🤖  AI / ML Engineering  ███████░░░░░░░░░░░░░░   35%
+⚡  Renewable Energy      ████░░░░░░░░░░░░░░░░░   20%
+🌐  Web Development       ███████████░░░░░░░░░░   55%
+```
+
+---
+
+### Connect
+
+<div align="center">
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=00d4ff)](http://favourchisom.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/fachiny17)
+[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=ffffff)](https://www.github.com/fachiny17)
+[![Email](https://img.shields.io/badge/Email-000?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:iheanyifavour.ube3room312@gmail.com)
+
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0a0a0a&height=100&section=footer" width="100%"/>
 </div>

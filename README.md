@@ -61,16 +61,6 @@
 
 ---
 
-## 🧠 Current Focus
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=fachiny17&theme=tokyonight&no-frame=true&row=1&column=6"/>
-</p>
-
-- 🔭 Building **Face Recognition Attendance System**  
-- 🤖 Learning **Deep Learning & Model Deployment**  
-- ⚙️ Combining **Engineering + AI to solve real problems**  
-
----
 
 ## 📌 Featured Projects
 <p align="center">
@@ -81,7 +71,7 @@
 
 ---
 
-## 🐍 Contribution Snake (Animation)
+## 🐍 Contribution
 <p align="center">
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
 </p>

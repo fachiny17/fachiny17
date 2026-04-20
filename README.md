@@ -1,13 +1,13 @@
 <h1 align="center">
-  Hi 👋, I'm Iheanyi Favour Chisom
+  Iheanyi Favour Chisom
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=0891B2&center=true&vCenter=true&width=500&lines=Mechanical+Engineering+Student;AI%2FML+Enthusiast;Building+Real-World+Solutions;Future+AI+Engineer" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=22&duration=3500&pause=1000&color=6A9FB5&center=true&vCenter=true&width=600&lines=Mechanical+Engineering+Student;AI+%7C+Machine+Learning+Enthusiast;Building+Impactful+Solutions" />
 </p>
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212897782-9658154c-8c79-4e7c-bc6c-66c7d4c0e7a6.gif" width="250"/>
+  <i>Turning ideas into real-world intelligent systems</i>
 </p>
 
 ---

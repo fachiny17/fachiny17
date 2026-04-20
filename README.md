@@ -17,7 +17,7 @@
 
 - 🌍 Based in Nigeria  
 - 🧠 Learning **Python, AI & Machine Learning**  
-- 🤝 Open to **AI/ML, Software Dev & Renewable Energy collaborations**  
+- 🤝 Open to **AI/ML, Software Dev & Mechanical Engineering collaborations**  
 - ⚡ I enjoy playing football  
 
 ---

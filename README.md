@@ -1,80 +1,98 @@
-<h1 align="center">Hi 👋, I'm Iheanyi Favour Chisom</h1>
-<h3 align="center">Mechanical Engineering Student | AI/ML Enthusiast | Problem Solver</h3>
+<h1 align="center">
+  Hi 👋, I'm Iheanyi Favour Chisom
+</h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=0891B2&center=true&vCenter=true&width=500&lines=Mechanical+Engineering+Student;AI%2FML+Enthusiast;Building+Real-World+Solutions;Future+AI+Engineer" />
+</p>
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212897782-9658154c-8c79-4e7c-bc6c-66c7d4c0e7a6.gif" width="250"/>
+</p>
 
 ---
 
 ## 🚀 About Me
-I am a Mechanical Engineering student based in Nigeria with a strong passion for building impactful, real-world solutions using technology.
+<img align="right" alt="coding" width="300" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
 
 - 🌍 Based in Nigeria  
-- 🧠 Currently learning **Python, AI, and Machine Learning**  
-- 🤝 Open to collaboration on **AI/ML, Software Development, and Renewable Energy projects**  
-- ⚡ Fun fact: I enjoy playing football  
+- 🧠 Learning **Python, AI & Machine Learning**  
+- 🤝 Open to **AI/ML, Software Dev & Renewable Energy collaborations**  
+- ⚡ I enjoy playing football  
 
 ---
 
-## 🌐 Portfolio & Contact
-- 🖥️ Portfolio: [favourchisom.vercel.app](http://favourchisom.vercel.app)  
-- ✉️ Email: iheanyifavour.ube3room312@gmail.com  
-- 💼 LinkedIn: [fachiny17](https://www.linkedin.com/in/fachiny17)  
-- 🐙 GitHub: [fachiny17](https://github.com/fachiny17)  
+## 🌐 Connect With Me
+<p align="left">
+<a href="https://github.com/fachiny17"><img src="https://skillicons.dev/icons?i=github" /></a>
+<a href="https://www.linkedin.com/in/fachiny17"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+<a href="mailto:iheanyifavour.ube3room312@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
+</p>
 
 ---
 
 ## 🛠️ Tech Stack
-<p align="left">
-<img src="https://skillicons.dev/icons?i=python,js,html,css,flask,postgresql,git,linux,vscode" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,js,html,css,flask,postgresql,git,linux,vscode,tensorflow" />
 </p>
 
-### 📊 Data Science & ML Tools
-- NumPy  
-- Pandas  
-- Matplotlib  
-- Scikit-learn  
-- TensorFlow  
+<p align="center">
+  <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas"/>
+  <img src="https://img.shields.io/badge/ScikitLearn-F7931E?style=for-the-badge&logo=scikit-learn"/>
+  <img src="https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge&logo=matplotlib&logoColor=black"/>
+</p>
 
 ---
 
-## 📈 GitHub Stats
+## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=fachiny17&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=fachiny17&show_icons=true&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=fachiny17&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=fachiny17&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=fachiny17&theme=tokyo-night&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=fachiny17&theme=tokyo-night&hide_border=true"/>
 </p>
 
 ---
 
 ## 🧠 Current Focus
-- Building **AI-powered real-world applications**
-- Developing **Face Detection & Recognition Systems**
-- Strengthening **Machine Learning fundamentals & deployment**
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=fachiny17&theme=tokyonight&no-frame=true&row=1&column=6"/>
+</p>
+
+- 🔭 Building **Face Recognition Attendance System**  
+- 🤖 Learning **Deep Learning & Model Deployment**  
+- ⚙️ Combining **Engineering + AI to solve real problems**  
 
 ---
 
 ## 📌 Featured Projects
-<!-- Add your best projects here -->
-- 🔹 Face Recognition Attendance System *(in progress)*  
-- 🔹 Machine Learning Projects (Scikit-learn & TensorFlow)  
+<p align="center">
+  <a href="https://github.com/fachiny17">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=fachiny17&repo=YOUR_REPO_NAME&theme=tokyonight&hide_border=true"/>
+  </a>
+</p>
 
 ---
 
-## 🤝 Let's Collaborate
-I'm open to working on meaningful projects, especially in:
-- Artificial Intelligence & Machine Learning  
-- Software Development  
-- Renewable Energy Solutions  
-
-If you're working on something impactful, feel free to reach out!
+## 🐍 Contribution Snake (Animation)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
+</p>
 
 ---
+
+## 🤝 Let's Build Together
+<p align="center">
+  <b>Open to collaborations on impactful AI & engineering projects</b>
+</p>
 
 <p align="center">
-  <img src="https://img.shields.io/github/followers/fachiny17?label=Followers&style=social" />
+  <img src="https://img.shields.io/github/followers/fachiny17?style=social"/>
 </p>

@@ -1,19 +1,20 @@
 <h1 align="center" style="
-  font-size: 3.5em;
-  font-weight: 900;
-  font-family: 'Arial Black', 'Impact', sans-serif;
-  color: #E2E8F0;
-  text-transform: uppercase;
-  letter-spacing: 2px;
-  text-shadow: 
-    1px 1px 0 #0891B2,
-    2px 2px 0 #06B6D4,
-    3px 3px 0 #22D3EE,
-    4px 4px 0 #67E8F9,
-    5px 5px 10px rgba(0,0,0,0.3);
-  word-break: keep-all;
+  font-size: 3.2em;
+  font-weight: 700;
+  font-family: system-ui, -apple-system, sans-serif;
+  color: #F8FAFC;
+  text-shadow: 0 2px 10px rgba(0,0,0,0.1);
 ">
-  Hi 👋, I'm Iheanyi, Favour Chisom
+  <span style="
+    display: inline-block;
+    filter: drop-shadow(0 0 15px #FBBF24);
+  ">Hi 👋,</span> I'm <span style="
+    background: linear-gradient(to right, #F0F9FF, #E0F2FE);
+    padding: 0 10px;
+    border-radius: 12px;
+    border-left: 6px solid #0891B2;
+    border-right: 6px solid #0891B2;
+  ">Iheanyi, Favour Chisom</span>
 </h1>
 
 <p align="center">

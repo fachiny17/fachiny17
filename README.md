@@ -1,25 +1,20 @@
 <h1 align="center" style="
-  font-size: 3em;
-  font-weight: 800;
-  font-family: 'Segoe UI', 'Inter', sans-serif;
-  letter-spacing: -0.5px;
-  margin-bottom: 0;
-  background: linear-gradient(135deg, #0891B2 0%, #06B6D4 40%, #3B82F6 80%);
-  background-size: 200% auto;
-  -webkit-background-clip: text;
-  -webkit-text-fill-color: transparent;
-  background-clip: text;
-  animation: shine 4s linear infinite;
-  filter: drop-shadow(0 4px 6px rgba(8, 145, 178, 0.2));
+  font-size: 3.5em;
+  font-weight: 900;
+  font-family: 'Arial Black', 'Impact', sans-serif;
+  color: #E2E8F0;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+  text-shadow: 
+    1px 1px 0 #0891B2,
+    2px 2px 0 #06B6D4,
+    3px 3px 0 #22D3EE,
+    4px 4px 0 #67E8F9,
+    5px 5px 10px rgba(0,0,0,0.3);
+  word-break: keep-all;
 ">
   Hi 👋, I'm Iheanyi, Favour Chisom
 </h1>
-
-<style>
-@keyframes shine {
-  to { background-position: 200% center; }
-}
-</style>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=0891B2&center=true&vCenter=true&width=500&lines=Mechanical+Engineering+Student;AI%2FML+Enthusiast;Building+Real-World+Solutions" />

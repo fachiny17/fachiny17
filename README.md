@@ -135,7 +135,7 @@
     </div>
     <div style="display: flex; justify-content: space-between; align-items: center;">
       <a href="https://github.com/fachiny17/naija-flavours" style="background: #238636; color: white; padding: 8px 16px; border-radius: 8px; text-decoration: none; font-weight: bold; font-size: 14px;">⭐ View Code</a>
-      <a href="#" style="color: #8b949e; text-decoration: none; font-size: 14px;">🔗 Live (Soon) →</a>
+      <a href="https://naija-flavours.onrender.com/" style="color: #8b949e; text-decoration: none; font-size: 14px;">🔗 Visit →</a>
     </div>
   </div>
 

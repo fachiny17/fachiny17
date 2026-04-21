@@ -14,7 +14,7 @@
   word-break: keep-all;
   margin-bottom: 10px;
 ">
-  Hi 👋, I'm Iheanyi, Favour Chisom
+  FAVOUR CHISOM IHEANYI
 </h1>
 
 <p align="center">

@@ -48,7 +48,7 @@
 
 ## 🛠️ Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,html,css,flask,postgresql,git,linux,vscode,tensorflow" />
+  <img src="https://skillicons.dev/icons?i=python,js,html,css,flask,postgresql,git,linux,vscode,tensorflow,pytorch" />
 </p>
 
 <p align="center">

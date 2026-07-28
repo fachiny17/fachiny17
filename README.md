@@ -37,6 +37,23 @@
 
 ---
 
+## 🎓 Certifications
+
+<p align="center">
+  <a href="https://www.credly.com/badges/e17af6f7-cd6c-439a-95ff-5a890489a0bb/public_url" target="_blank">
+    <img src="https://images.credly.com/size/680x680/images/9ed49fb3-93da-4f4a-bba2-9d71c90dd7b4/Introduction_to_Linux.png" alt="Introduction to Linux - The Linux Foundation" width="150" style="margin: 0 15px;" />
+  </a>
+  <a href="https://www.credly.com/badges/b159d2a9-bdae-4794-a130-66904569ebec/public_url" target="_blank">
+    <img src="https://images.credly.com/size/680x680/images/8b8ed108-e77d-4396-ac59-2504583b9d54/Intro_to_Kubernetes.png" alt="Introduction to Kubernetes - The Linux Foundation" width="150" style="margin: 0 15px;" />
+  </a>
+</p>
+
+<p align="center">
+  <sub>Certified by <strong>The Linux Foundation</strong> • Verified digital badges from <a href="https://www.credly.com/">Credly</a></sub>
+</p>
+
+---
+
 ## 🌐 Connect With Me
 <p align="left">
 <a href="https://github.com/fachiny17"><img src="https://skillicons.dev/icons?i=github" /></a>

@@ -63,15 +63,15 @@
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=fachiny17&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=fachiny17&show_icons=true&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=fachiny17&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=fachiny17&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
-  <img src="https://ghchart.rshah.org/0891B2/fachiny17" alt="Favour's GitHub chart" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=fachiny17&theme=tokyo-night&hide_border=true"/>
 </p>
 
 ---

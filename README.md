@@ -18,7 +18,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=0891B2&center=true&vCenter=true&width=500&lines=Mechanical+Engineering+Student;AI%2FML+Enthusiast;Building+Real-World+Solutions" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=0891B2&center=true&vCenter=true&width=500&lines=Mechanical+Engineering+Graduate;AI%2FML+Enthusiast;Building+Real-World+Solutions" />
 </p>
 
 <p align="center">

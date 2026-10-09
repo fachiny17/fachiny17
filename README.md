@@ -33,7 +33,7 @@
 - 🌍 Based in Nigeria  
 - 🧠 Learning **always**  
 - 🤝 Open to **AI/ML, Software Dev & Mechanical Engineering collaborations**  
-- ⚡ I enjoy playing football  
+- ⚡ I enjoy playing football and athletics(short distance race) 
 
 ---
 

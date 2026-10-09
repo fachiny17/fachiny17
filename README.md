@@ -31,7 +31,7 @@
 <img align="right" alt="coding" width="300" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
 
 - 🌍 Based in Nigeria  
-- 🧠 Learning **Python, AI & Machine Learning**  
+- 🧠 Learning **always**  
 - 🤝 Open to **AI/ML, Software Dev & Mechanical Engineering collaborations**  
 - ⚡ I enjoy playing football  
 

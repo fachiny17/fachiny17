@@ -19,4 +19,5 @@ jobs:
         with:
           USERNAME: ${{ github.repository_owner }}
           BRANCH_NAME: "main"
+          CARD_THEME: "tokyonight"
           UTC_OFFSET: 1 

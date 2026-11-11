@@ -131,12 +131,10 @@ A structured record of my machine learning learning path, with projects and note
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=fachiny17&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fachiny17&layout=compact&theme=tokyonight&hide_border=true" alt="Most used languages" />
-
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=fachiny17&theme=tokyo-night&hide_border=true" alt="Contribution activity graph" />
+<img width="48%" src="https://raw.githubusercontent.com/fachiny17/fachiny17/main/profile-summary-card-output/tokyonight/0-profile-details.svg" alt="Profile details" />
+<img width="48%" src="https://raw.githubusercontent.com/fachiny17/fachiny17/main/profile-summary-card-output/tokyonight/3-stats.svg" alt="Top languages used in repositories" />
+<img width="48%" src="https://raw.githubusercontent.com/fachiny17/fachiny17/main/profile-summary-card-output/tokyonight/2-most-commit-language.svg" alt="Top languages by commits" />
+<img width="48%" src="https://raw.githubusercontent.com/fachiny17/fachiny17/main/profile-summary-card-output/tokyonight/4-productive-time.svg" alt="Most productive time of day" />
 
 </div>
 
@@ -157,20 +155,10 @@ A structured record of my machine learning learning path, with projects and note
 <p align="center">
 <a href="https://github.com/fachiny17"><img src="https://skillicons.dev/icons?i=github" /></a>
 <a href="https://www.linkedin.com/in/fachiny17"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
-<a href="mailto:iheanyifavour.ube3room312@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
 </p>
 
 ---
 
-<p align="center">
-  <a href="https://github.com/fachiny17?tab=repositories">
-    <img src="https://img.shields.io/badge/See%20All%20Repos-0891B2?style=for-the-badge&logo=github&logoColor=white" alt="See All Repos"/>
-  </a>
-</p>
-
 ---
 
-## 🤝 Let's Build Together
-<p align="center">
-  <b>Open to collaborations on impactful AI & engineering projects</b>
-</p>
+**Open to collaborations on impactful AI and engineering projects.**

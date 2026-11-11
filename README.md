@@ -144,10 +144,12 @@ A structured record of my machine learning learning path, with projects and note
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/fachiny17/fachiny17/output/github-snake-dark.svg" />
-    <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/fachiny17/fachiny17/output/github-snake.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/fachiny17/fachiny17/output/github-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/fachiny17/fachiny17/output/github-snake.svg">
+    <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/fachiny17/fachiny17/output/github-snake.svg">
   </picture>
-</div>
+</div> 
 
 ---
 

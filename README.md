@@ -31,7 +31,7 @@
 <table>
   <tr>
     <td><b>Languages</b></td>
-    <td><img src="https://skillicons.dev/icons?i=python,js,html,css" alt="Python, JavaScript, HTML, CSS" /></td>
+    <td><img src="https://skillicons.dev/icons?i=python,matlab,js,html,css" alt="Python, MATLAB, JavaScript, HTML, CSS" /></td>
   </tr>
   <tr>
     <td><b>Frameworks &amp; Databases</b></td>

@@ -2,7 +2,7 @@
 
 # IHEANYI, FAVOUR CHISOM
 
-**Mechanical Engineering Graduate · AI/ML Practitioner · Software Developer**
+**Mechanical Engineering final year · AI/ML Practitioner · Software Developer**
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=0891B2&center=true&vCenter=true&width=520&lines=Mechanical+Engineering+Graduate;AI%2FML+Enthusiast;Building+Real-World+Solutions" alt="Typing animation: Mechanical Engineering Graduate, AI/ML Enthusiast, Building Real-World Solutions" />
 

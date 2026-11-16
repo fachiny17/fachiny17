@@ -1,6 +1,6 @@
 <div align="center">
 
-# Favour Chisom Iheanyi
+# IHEANYI, FAVOUR CHISOM
 
 **Mechanical Engineering Graduate · AI/ML Practitioner · Software Developer**
 
